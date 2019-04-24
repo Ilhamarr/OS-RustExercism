@@ -1,5 +1,5 @@
-*Name : ILHAM ARROSYID*
-*NIM  : 1313617018*
+*Name   : ILHAM ARROSYID* <br>
+*NIM    : 1313617018*
 
 # OS-RustExercism
 
