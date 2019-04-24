@@ -1,3 +1,5 @@
+//Saya Kerjakan Problem ini sendiri
+
 pub struct Triangle{
     one:u64,
     two:u64,
