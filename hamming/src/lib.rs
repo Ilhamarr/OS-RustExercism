@@ -1,6 +1,7 @@
 /// Return the Hamming distance between the strings,
 /// or None if the lengths are mismatched.
 /// saya kerjakan masalah ini dibantu oleh Yoshua Lukas
+//https://exercism.io/my/solutions/eebda148642c4d5d86685f88e818dfeb
 pub fn hamming_distance(s1: &str, s2: &str) -> Option<usize> {
     //unimplemented!("What is the Hamming Distance between {} and {}", s1, s2);
     if s1.len() != s2.len(){
