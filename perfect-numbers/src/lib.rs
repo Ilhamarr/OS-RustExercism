@@ -1,4 +1,5 @@
 //saya kerjakan problem ini sendiri
+// https://exercism.io/my/solutions/d5463fd199dc4aa592ee9ff265d93e46
 
 #[derive(Debug, PartialEq, Eq)]
 pub enum Classification {
