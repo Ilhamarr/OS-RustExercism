@@ -1,6 +1,7 @@
 use std::collections::HashSet;
 
 //Saya Kerjakan Masalah ini dibantu oleh M. Luthfi Albiansyah
+//https://exercism.io/my/solutions/e1fa28b32f5a4602ba94dc0de9df14aa
 
 pub fn find(sum: u32) -> HashSet<[u32; 3]> {
     //unimplemented!("Given the sum {}, return all possible Pythagorean triplets, which produce the said sum, or an empty HashSet if there are no such triplets. Note that you are expected to return triplets in [a, b, c] order, where a < b < c", sum);
