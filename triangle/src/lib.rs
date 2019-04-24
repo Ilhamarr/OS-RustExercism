@@ -1,5 +1,5 @@
 //Saya Kerjakan Problem ini sendiri
-
+//https://exercism.io/my/solutions/1b060428f0a24ac390ba245acd1bbd81
 pub struct Triangle{
     one:u64,
     two:u64,
