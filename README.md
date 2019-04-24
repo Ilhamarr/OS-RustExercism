@@ -1,4 +1,8 @@
+### Name : ILHAM ARROSYID
+### NIM  : 1313617018
+
 # OS-RustExercism
+
 
 In this task i solved 5 exercise in medium.
 1. Triangle
