@@ -1,5 +1,6 @@
 /// Compute the Scrabble score for a word.
 // Saya kerjakan problem ini sendiri
+// https://exercism.io/my/solutions/e940285e03a2482d9fb64fa2c30dedd0
 pub fn score(word: &str) -> u64 {
     //unimplemented!("Score {} in Scrabble.", word);
     let kata = word.to_lowercase();
